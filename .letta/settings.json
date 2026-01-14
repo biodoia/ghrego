@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(cd /home/lisergico25/projects/ghrego && go test -v ./... 2>&1 | head -50)",
+      "Bash(ls:*)"
+    ]
+  }
+}
